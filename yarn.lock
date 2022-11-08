@@ -11102,10 +11102,10 @@ humanize-ms@^1.2.1:
   dependencies:
     ms "^2.0.0"
 
-husky@5.1.3:
-  version "5.1.3"
-  resolved "https://registry.yarnpkg.com/husky/-/husky-5.1.3.tgz#1a0645a4fe3ffc006c4d0d8bd0bcb4c98787cc9d"
-  integrity sha512-fbNJ+Gz5wx2LIBtMweJNY1D7Uc8p1XERi5KNRMccwfQA+rXlxWNSdUxswo0gT8XqxywTIw7Ywm/F4v/O35RdMg==
+husky@8.0.2:
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-8.0.2.tgz#5816a60db02650f1f22c8b69b928fd6bcd77a236"
+  integrity sha512-Tkv80jtvbnkK3mYWxPZePGFpQ/tT3HNSs/sasF9P2YfkMezDl3ON37YN6jUUI4eTg5LcyVynlb6r4eyvOmspvg==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.4, iconv-lite@~0.4.13:
   version "0.4.24"
@@ -17137,10 +17137,10 @@ snyk-try-require@^2.0.0:
     lodash.clonedeep "^4.3.0"
     lru-cache "^5.1.1"
 
-snyk@1.495.0:
-  version "1.495.0"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.495.0.tgz#3d952dbfd3c78f6118af6f88c068aea57fec0082"
-  integrity sha512-pSz9+Oy+nVqcw4B0SwVk3+J5Tw358INSFTPJQOjWh41BZeWUwl9ZglSfF0gcRtA2ZI+BFJjsjDuVmUsVAbfkpA==
+snyk@1.498.0:
+  version "1.498.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.498.0.tgz#4090b89a06e99b3b050ec33ce3fdb61de241e40b"
+  integrity sha512-MduLuSoJrO4jFXBypQ9OV+RyLAcFbLu+/GAd+x81P7Tp/8lgKOVWicFrFKcgAzL1dbxu9aFWZm8Ek84qVE/W2Q==
   dependencies:
     "@open-policy-agent/opa-wasm" "^1.2.0"
     "@snyk/cli-interface" "2.11.0"
